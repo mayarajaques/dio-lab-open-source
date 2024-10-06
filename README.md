@@ -1,4 +1,4 @@
-**Fork efetuado para resolver os desanfios propostos abaixo do curso de Desenvolvimento C#.**
+**Fork efetuado para resolver os desafios propostos abaixo do curso de Desenvolvimento C#.**
 
 
 
